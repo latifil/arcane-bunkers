@@ -1,0 +1,30 @@
+teams:
+  red:
+    display-name: "Red"
+    color: "red"
+    is-player-team: true
+    material: "RED_DYE"
+
+  blue:
+    display-name: "Blue"
+    color: "blue"
+    is-player-team: true
+    material: "LIGHT_BLUE_DYE"
+
+  green:
+    display-name: "Green"
+    color: "green"
+    is-player-team: true
+    material: "LIME_DYE"
+
+  yellow:
+    display-name: "Yellow"
+    color: "yellow"
+    is-player-team: true
+    material: "YELLOW_DYE"
+
+  koth:
+    display-name: "KoTH"
+    color: "gold"
+    is-player-team: false
+    material: "ORANGE_DYE"
